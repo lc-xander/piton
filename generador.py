@@ -1,3 +1,4 @@
+#no se que es esto pero lo voy a hacer
 import random
 print("generador de contraseñas aleatorias")
 caracteres = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()_+"
